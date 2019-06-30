@@ -4,3 +4,4 @@ matplotlib
 Pillow
 aiofiles
 aiohttp
+torch
